@@ -1,3 +1,4 @@
+
 # PaperBot: Learning to Design Real-World Tools Using Paper
 ### Arxiv 2024
 ### [Project Page](https://paperbot.cs.columbia.edu/)  | [Paper](https://paperbot.cs.columbia.edu/assets/paperbot.pdf)
@@ -9,3 +10,14 @@
 <p align="center">
   <img width="100%" src="figures/teaser.jpg">
 </p>
+
+### Bibtex
+
+    @misc{liu2024paperbot,
+          title={PaperBot: Learning to Design Real-World Tools Using Paper}, 
+          author={Ruoshi Liu and Junbang Liang and Sruthi Sudhakar and Huy Ha and Cheng Chi and Shuran Song and Carl Vondrick},
+          year={2024},
+          eprint={2403.09566},
+          archivePrefix={arXiv},
+          primaryClass={cs.RO}
+    }
